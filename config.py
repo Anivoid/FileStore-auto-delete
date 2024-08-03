@@ -35,9 +35,9 @@ TG_BOT_WORKERS = int(os.environ.get("TG_BOT_WORKERS", "4"))
 START_PIC = os.environ.get("START_PIC", "https://graph.org/file/e8e25e73d7a1ee6dfba98.jpg")
 FORCE_PIC = os.environ.get("FORCE_PIC", "https://graph.org/file/e8e25e73d7a1ee6dfba98.jpg")
 
-HELP_TXT = "<b>ᴛʜɪs ɪs ᴀɴ ғɪʟᴇ ᴛᴏ ʟɪɴᴋ ʙᴏᴛ ᴡᴏʀᴋ ғᴏʀ @Ariesaep\n\n❏ ʙᴏᴛ ᴄᴏᴍᴍᴀɴᴅs\n├/start : sᴛᴀʀᴛ ᴛʜᴇ ʙᴏᴛ\n├/about : ᴏᴜʀ Iɴғᴏʀᴍᴀᴛɪᴏɴ\n└/help : ʜᴇʟᴘ ʀᴇʟᴀᴛᴇᴅ ʙᴏᴛ\n\n sɪᴍᴘʟʏ ᴄʟɪᴄᴋ ᴏɴ ʟɪɴᴋ ᴀɴᴅ sᴛᴀʀᴛ ᴛʜᴇ ʙᴏᴛ ᴊᴏɪɴ ʙᴏᴛʜ ᴄʜᴀɴɴᴇʟs ᴀɴᴅ ᴛʀʏ ᴀɢᴀɪɴ ᴛʜᴀᴛs ɪᴛ.....!\n\n ᴅᴇᴠᴇʟᴏᴘᴇᴅ ʙʏ <a href=https://t.me/Ariesaep>Akki</a></b>"
-ABOUT_TXT = "<b>◈ ᴄʀᴇᴀᴛᴏʀ: <a href=https://t.me/Ariesaep>Akki</a>\n◈ ꜰᴏᴜɴᴅᴇʀ ᴏꜰ : <a href=https://t.me/ongoing_haniflix>Haniflix network</a>\n◈ ᴀɴɪᴍᴇ ᴄʜᴀɴɴᴇʟ : <a href=https://t.me/animesilvervoid>Silvervoid [ℍ𝕌𝔹]</a>\n◈  Movie Channel : <a href=https://t.me/silvervoidmovie>Silvervoid [𝕄𝕠𝕧𝕚𝕖]</a>\n◈ Javflix : <a href=https://t.me/+_klqs93gEstkYzk1>Javflix</a>\n◈ ᴅᴇᴠᴇʟᴏᴘᴇʀ : <a href=https://t.me/Ariesaep>Akki</a></b>"
-START_MSG = os.environ.get("START_MESSAGE", "<b>ʙᴀᴋᴋᴀᴀᴀ!! {first}\n\n I'am file store bot of @Ariesaep! 📁✨\nʏᴏᴜ ᴄᴀɴ ᴀᴄᴄᴇꜱꜱ ꜰɪʟᴇꜱ ᴛʜʀᴏᴜɢʜ ᴀ ꜱᴘᴇᴄɪꜰɪᴄ ʟɪɴᴋ❗try:.</b>")
+HELP_TXT = "<b>ᴛʜɪs ɪs ᴀɴ ғɪʟᴇ ᴛᴏ ʟɪɴᴋ ʙᴏᴛ ᴡᴏʀᴋ ғᴏʀ <a href='https://t.me/Anime_Flix_Network'>ᴀɴɪᴍᴇ ꜰʟɪx ɴᴇᴛᴡᴏʀᴋ</a>\n\n❏ ʙᴏᴛ ᴄᴏᴍᴍᴀɴᴅs\n├/start : sᴛᴀʀᴛ ᴛʜᴇ ʙᴏᴛ\n├/about : ᴏᴜʀ Iɴғᴏʀᴍᴀᴛɪᴏɴ\n└/help : ʜᴇʟᴘ ʀᴇʟᴀᴛᴇᴅ ʙᴏᴛ\n\n sɪᴍᴘʟʏ ᴄʟɪᴄᴋ ᴏɴ ʟɪɴᴋ ᴀɴᴅ sᴛᴀʀᴛ ᴛʜᴇ ʙᴏᴛ ᴊᴏɪɴ ʙᴏᴛʜ ᴄʜᴀɴɴᴇʟs ᴀɴᴅ ᴛʀʏ ᴀɢᴀɪɴ ᴛʜᴀᴛs ɪᴛ.....!\n\n ᴅᴇᴠᴇʟᴏᴘᴇᴅ ʙʏ <a href=https://t.me/Lucifer_x0o>ᴀʙʀᴀʜᴀᴍ™ [𝕃𝕠𝕤𝕥]</a></b>"
+ABOUT_TXT = "<b>◈ ᴄʀᴇᴀᴛᴏʀ: <a href=https://t.me/Lucifer_x0o>ᴀʙʀᴀʜᴀᴍ™ [𝕃𝕠𝕤𝕥]</a>\n◈ ꜰᴏᴜɴᴅᴇʀ ᴏꜰ : <a href='https://t.me/Anime_Flix_Network'>ᴀɴɪᴍᴇ ꜰʟɪx ɴᴇᴛᴡᴏʀᴋ</a>\n◈ ʜᴇɴᴛᴀɪ ᴄʜᴀɴɴᴇʟ : <a href=https://t.me/Hentaii_flix>Hanime Flix | Adult Anime</a>\n◈  ᴀɴɪᴍᴇ ᴄʜᴀᴛ : <a href='https://t.me/+04k5y7NJpdc0YTll'>Hentai Flix :)</a>\n◈ ᴊᴀᴠ ᴄʜᴀɴɴᴇʟ : <a href=https://t.me/+R9dkukBD1604MWQ1>Japanese-Flix</a>\n◈ ᴅᴇᴠᴇʟᴏᴘᴇʀ : <a href=https://t.me/Lucifer_x0o>ᴀʙʀᴀʜᴀᴍ™ [𝕃𝕠𝕤𝕥]</a></b>"
+START_MSG = os.environ.get("START_MESSAGE", "<b>"👋 ʜɪ ᴅᴜᴅᴇ! 😎 {first}\n\n ɪ’ᴍ ʏᴏᴜʀ ꜰɪʟᴇ ꜱʜᴀʀᴇ ʙᴏᴛ! 📁✨\nʏᴏᴜ ᴄᴀɴ ᴀᴄᴄᴇꜱꜱ ꜰɪʟᴇꜱ ᴛʜʀᴏᴜɢʜ ᴀ ꜱᴘᴇᴄɪꜰɪᴄ ʟɪɴᴋ❗️</b>")
 try:
     ADMINS=[7102263732]
     for x in (os.environ.get("ADMINS", "1582227872 6095034047").split()):
