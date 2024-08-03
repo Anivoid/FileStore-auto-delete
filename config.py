@@ -24,8 +24,8 @@ OWNER_ID = int(os.environ.get("OWNER_ID", "7102263732"))
 #Port
 PORT = os.environ.get("PORT", "8030")
 #Database
-DB_URI = os.environ.get("DATABASE_URL", "mongodb+srv://Anivoid:akhand1616@cluster05.kzyifsq.mongodb.net/?retryWrites=true&w=majority&appName=Cluster05")
-DB_NAME = os.environ.get("DATABASE_NAME", "AiFileShare")
+DB_URI = os.environ.get("DATABASE_URL", "mongodb+srv://accha:phir@cluster0.muyemhu.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0")
+DB_NAME = os.environ.get("DATABASE_NAME", "Cluster0")
 #force sub channel id, if you want enable force sub
 FORCE_SUB_CHANNEL = int(os.environ.get("FORCE_SUB_CHANNEL", "-1002154284624"))
 FORCE_SUB_CHANNEL2 = int(os.environ.get("FORCE_SUB_CHANNEL2", "-1002154284624"))
